@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "senation",
+    "name": "Senation",
+    "description": "Senation Owns YOU",
+    "version": "2.0.0",
+    "mcversion": "1.12.2",
+	"logoFile": "phobos.png",
+    "url": "https://discord.gg/eu7NdMZq9x",
+    "updateUrl": "https://discord.gg/eu7NdMZq9x",
+    "authorList": [
+     "SomeSadKid_", // good developer
+     "Primooctopus33" // very good developer
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
