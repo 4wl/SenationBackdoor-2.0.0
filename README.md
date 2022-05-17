@@ -4,9 +4,13 @@ and all his malicious intent. Nightmare if your reading this i am trying to teac
 Chad Devs
 ---------
 XeonLyfe - did nothing
+
 Primooctopus - helped with errors
+
 SomeSadKid_ - did most of the work
+
 Woodz - did nothing
+
 Zapped - did nothing
 
 
